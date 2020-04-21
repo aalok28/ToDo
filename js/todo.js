@@ -1,8 +1,8 @@
 $(function(){
       $(".blink").typed({
         strings: ["Hey there!", "Enter your TODO."],
-        typeSpeed: 0
-      });
+        typeSpeed: 0,
+    });
   });
 
 var add = document.getElementById('add');
